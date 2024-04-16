@@ -1,0 +1,23 @@
+.todo-input-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+.todo-input{
+    width: 70%;
+    border-radius: 12px;
+    border: 1px solid transparent;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.todo-input:focus{
+    outline: none;
+}
+
+.todo-input-add{
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+}
